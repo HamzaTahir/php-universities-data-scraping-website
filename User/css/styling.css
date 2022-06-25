@@ -1,0 +1,121 @@
+.checking{
+    margin-right: 10px !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    color: #388087 !important;
+  }
+.Change_p_Styling{
+  font-size: larger !important;
+  font-weight: 400 !important; 
+}
+h3,h2{
+  font-size: larger !important;
+  font-weight: 400 !important; 
+}
+b, strong {
+    font-weight: normal !important;
+}
+.uniDetailsHeadingStyling{
+  color:black !important;
+  font-size:17px !important;
+  font-weight:500 !important;
+}
+.uniDetailsTDStyling{
+  color:black !important;
+  font-size:17px !important;
+  font-weight:400 !important;
+}
+.checking{
+    margin-right: 10px !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    color: #388087 !important;
+  }
+.uniDetailsHeadingStyling{
+  color:black !important;
+  font-size:17px !important;
+  font-weight:500 !important;
+}
+.uniDetailsTDStyling{
+  color:black !important;
+  font-size:17px !important;
+  font-weight:400 !important;
+}
+.SemesterStyling{
+	text-align:center !important;
+	font-size: larger !important;
+	font-weight: 500 !important;
+}
+.SemesterStyling_1{
+  text-align:center !important;
+  font-size: larger !important;
+  font-weight: 500 !important;
+  padding: 0px !important;  
+}
+.Change_table_Styling{
+  width:100% !important;
+  border:none !important;
+}
+.Change_th_Styling{
+  border: 1px solid  !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-color: #DEE2E6 !important;
+}
+.Change_th_Styling_1{
+  font-weight: normal !important;
+}
+.Change_td_Styling{
+  border: 1px solid  !important; 
+  border-color: #DEE2E6 !important;
+}
+.Change_1_td_Styling{
+  border:none !important; 
+  background-color: white !important;
+  
+}
+.Change_2_td_Styling{
+  border: 1px solid  !important; 
+  border-color: #DEE2E6 !important;
+  background-color: white !important;
+}
+.Change_span_Styling{
+  color: black !important;
+  font-size: 17px !important;
+}
+.Change_span_Styling_1{
+  color: black !important;
+  font-size: 21px !important;
+  font-weight: 500 !important; 
+}
+.Change_span_Styling_2{
+  color: black !important;
+  font-size: 17px !important;
+  font-weight: 500 !important; 
+}
+.Change_p_Styling{
+  text-align: left !important;
+  padding-left: 6px !important;
+}
+.Change_p_Styling_1{
+  text-align: center !important;
+}
+.tr_after_heading{
+  background-color: white !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
+}
+.Change_1_th_Styling{
+  font-weight: 400 !important; 
+}
+.Change_b_Styling{
+  font-weight: 500 !important;
+  font-size: 17px !important;
+}
+.Change_h2_Styling{
+  display: none !important;
+}
+.Change_th_Styling2{
+  font-weight: normal !important;
+}
